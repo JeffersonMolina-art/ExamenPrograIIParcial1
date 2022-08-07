@@ -5,4 +5,5 @@ public class Directivo extends Empleado{
     public void mostrar(){
         System.out.println(categoria);
     }
+    public Empleado subordinados;
 }
