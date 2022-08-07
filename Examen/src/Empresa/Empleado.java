@@ -11,5 +11,5 @@ public class Empleado extends Persona{
     public int calcular_salario(){
         return sueldo_bruto;
     }
-    private List<Empresa> empleados;
+
 }
